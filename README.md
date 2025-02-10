@@ -3,9 +3,18 @@ Sandbox for Testing Packages
 
 A one-off disposable environment to test packages for the **`latest ubuntu`** release of our SW distros.
 
-To get started, simply click on the badge below:
+## 🌏  Open in the Cloud 
 
+To get started, click any of the badges below to start a new development environment to demo or contribute to the codebase without having to install anything on your machine:
+
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/icub-tech-iit/test-packages-sandbox)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/icub-tech-iit/test-packages-sandbox)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/icub-tech-iit/test-packages-sandbox)
+[![Edit in Codesandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/icub-tech-iit/test-packages-sandbox)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/icub-tech-iit/test-packages-sandbox)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/icub-tech-iit/test-packages-sandbox)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/icub-tech-iit/test-packages-sandbox)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/icub-tech-iit/test-packages-sandbox)
 
 > [!important]
 > You need to enable the [Codespaces](https://docs.github.com/en/codespaces) feature on your account to access the sandbox.
